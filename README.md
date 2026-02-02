@@ -41,14 +41,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-| ![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshh13&show_icons=true&theme=dark&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanshh13&theme=dark) |
-|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshh13&layout=compact&theme=dark) |
-
----
-
 ## 🧠 Competitive Programming
 
 ### 👨‍💻 LeetCode  
