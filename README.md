@@ -1,43 +1,112 @@
-# 💻 Vansh Rathod
+# Hi 👋, I'm Vansh Rathod
 
-🎓 Final Year B.Tech Computer Engineering Student at Dharmsinh Desai University (DDIT)  
-🌱 Passionate about Full-Stack Development, AI Tools, and Problem Solving  
-📬 [vanshrathod1055@gmail.com](mailto:vanshrathod1055@gmail.com)  
-🌐 [Portfolio Website](https://vanshh13.github.io/VanshRathod-Portfolio)  
-🔗 [LinkedIn](https://linkedin.com/in/vansh-rathod-8746b2259) • [GitHub](https://github.com/vanshh13)
+### Software Engineer | Full-Stack Developer
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vanshh13&label=Profile%20Views&color=0e75b6&style=flat" alt="vanshh13" />
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 Computer Engineering Graduate
+
+💻 Passionate about Software Development, Problem Solving, and Building Scalable Applications
+
+🌱 Currently exploring:
+- Full-Stack Development
+- System Design
+- Cloud Technologies
+- AI & Machine Learning
+
+⚡ What excites me:
+- Building useful products
+- Learning new technologies
+- Solving real-world problems
+- Open Source Contributions
+
+📫 Reach me at:
+**vanshrathod1055@gmail.com**
+
+🌐 Portfolio:
+**https://vanshh13.github.io/VanshRathod-Portfolio**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### Languages
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=js,java,python,cpp,c" />
+</p>
 
-### 🔧 Backend & Frameworks
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### Frontend
 
-### 💾 Databases
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/sql%20server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap" />
+</p>
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
+
+### Concepts
+
+- Data Structures & Algorithms
+- Object Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- REST APIs
+- Clean Architecture
+- Microservices Architecture
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanshh13&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshh13&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vanshh13&theme=github-dark-blue" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/vansh-rathod-8746b2259" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/vanshh13" target="blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
 
 ---
 
