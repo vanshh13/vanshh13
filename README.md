@@ -115,17 +115,7 @@
 ### 👨‍💻 LeetCode  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vansh13?theme=dark&ext=contest)](https://leetcode.com/u/vansh13/)
 
-### 👨‍💻 CodeChef  
-[![CodeChef Badge](https://img.shields.io/badge/CodeChef-vanshrathod-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vanshrathod)
-
 ---
-
-## 🚀 Notable Projects
-
-- **GreenCart** – Organic e-commerce platform with real-time order tracking, Razorpay payments, and role-based admin dashboard.  
-- **HealthcareHub** – Multi-hospital appointment system with patient-doctor-receptionist workflows.  
-- **Agentic AI Hiring Assistant** – Multi-LLM AI assistant using OpenAI, Cohere, Gemini, and Hugging Face with fallback routing.  
-- **OnlineBookShop** – Full-stack Django bookstore with category filters, secure login, and order flow.
 
 👉 [Explore My Projects on GitHub](https://github.com/vanshh13?tab=repositories)
 
